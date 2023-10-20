@@ -1,2 +1,2 @@
 # Omnifood
-This will expire in September 17, 2003
+Omnifood webpage from Jonas Schmedtmann's CSS course
